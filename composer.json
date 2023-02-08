@@ -1,7 +1,7 @@
 {
     "type": "library",
     "license": "proprietary",
-    "name": "app/calculate",
+    "name": "aaa/calculate",
     "authors": [
     {
         "name": "Muhammad Shafwan",
